@@ -1,6 +1,6 @@
 <img align="center" alt="image" width="100%" height="300px" src="https://i.pinimg.com/originals/1e/7d/d6/1e7dd6800a6ad9862861c878cfcc2fb2.gif">
 
-<h2 align="left">Hi 👋! My name is Kevin and I'm a Web / Game Developer, from Indonesia</h2>
+<h2 align="left">Hi 👋! My name is Kevin and I'm a Website / Game Developer, from Indonesia</h2>
 
 ###
 <div align="center">
