@@ -1,4 +1,4 @@
-<img align="center" alt="image" width="100%" src="https://i.pinimg.com/originals/1e/7d/d6/1e7dd6800a6ad9862861c878cfcc2fb2.gif">
+<img align="center" alt="image" width="100%" height="300px" src="https://i.pinimg.com/originals/1e/7d/d6/1e7dd6800a6ad9862861c878cfcc2fb2.gif">
 <h1 align="center">Hi 👋, I'm Kevin Hermanto</h1>
 <h3 align="center">A passionate web / game developer from Indonesia</h3>
 <br>
