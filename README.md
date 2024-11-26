@@ -3,7 +3,6 @@
 <h2 align="left">Hi 👋! My name is Kevin and I'm a Web / Game Developer, from Indonesia</h2>
 
 ###
-<img align="right" height="250" src="https://i.namu.wiki/i/oVPqwUKzpULBOx_83VbmAkGWYjaRNDRK_9O_b20cxNMHJTY-ANLa_JHOfZGUan-0zMccK9PiP7th0qjICLmFiQ.gif"  />
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kvnnh&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kvnnh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
