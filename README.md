@@ -1,8 +1,11 @@
 <img align="center" alt="image" width="100%" height="300px" src="https://i.pinimg.com/originals/1e/7d/d6/1e7dd6800a6ad9862861c878cfcc2fb2.gif">
 
 <h2 align="center">Hi 👋! My name is Kevin and I'm a Website / Game Developer, from Indonesia</h2>
+<div align="left">
+  <img src="https://komarev.com/ghpvc/?username=kvnnh"  />
+</div>
 
-###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kvnnh&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kvnnh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
